@@ -1,7 +1,7 @@
 ## ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 > [!NOTE]
-> ![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=202420505&text=helloworld&show_icons=true&theme=radical)
+> ![Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=202420505?text=helloworld&show_icons=true&theme=radical)
 > <br>
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=202420505&layout=compact)
 
