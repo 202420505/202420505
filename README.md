@@ -1,7 +1,7 @@
 #   Hi I'm Q!
 ## ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Q&fontSize=90)
 
-
+<center>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=202420505&show_icons=true&theme=dark"
@@ -27,3 +27,4 @@
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=202420505&mode=weekly)](https://git.io/streak-stats)
+</center>
