@@ -6,6 +6,20 @@
 <p align="center">
   <picture>
     <source
+      srcset="https://hits.sh/github.com/202420505.svg?view=today-total&style=for-the-badge&label=TODAY"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://hits.sh/github.com/202420505.svg?view=today-total&style=for-the-badge&label=TODAY"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://hits.sh/github.com/202420505.svg?view=today-total&style=for-the-badge&label=TODAY" width="200"/>   
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
       srcset="https://github-readme-stats.vercel.app/api?username=202420505&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
