@@ -13,3 +13,6 @@
 ## 💫 INFO
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=202420505&theme=swift&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
+
+<a href="https://trophy.ryglcloud.net"><img src="https://trophy.ryglcloud.net/?username=202420505&theme=light" alt="GitHub Trophy" /></a>
+
